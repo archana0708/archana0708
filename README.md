@@ -1,6 +1,6 @@
-### Hi there! I am Archana
+### Hey there! I am Archana
 
-<h1 align="center">Hi 👋, I'm Archana</h1>
+<h1 align="center">Hey, I'm Archana</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archana0708&label=Profile%20views&color=0e75b6&style=flat" alt="archana0708" /> </p>
